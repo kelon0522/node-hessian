@@ -30,7 +30,8 @@
         "async": "~0.2.9",
         "grunt-contrib-jshint": "0.3.x",
         "grunt-contrib-clean": "0.4.x",
-        "grunt-contrib-watch": "0.3.x"
+        "grunt-contrib-watch": "0.3.x",
+        "hessian.js": "^2.6.0"
     },
     "readmeFilename": "README.md",
     "author": {
