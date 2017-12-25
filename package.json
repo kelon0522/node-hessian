@@ -1,6 +1,6 @@
 {
-    "name": "hessian-proxy",
-    "version": "0.0.5",
+    "name": "hessian-proxy-kl",
+    "version": "0.0.2",
     "description": "hessian proxy to make rpc calls for javascript",
     "main": "./lib/index.js",
     "scripts": {
